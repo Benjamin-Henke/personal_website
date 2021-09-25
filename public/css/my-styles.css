@@ -1,0 +1,15 @@
+
+
+#nav-bar {
+    position: fixed;
+    width: 100%;
+}
+
+#portfolio {
+    text-align: center;
+}
+
+#self-photo {
+    width: 315px;
+    height: 210px;
+}
