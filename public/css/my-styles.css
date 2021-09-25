@@ -1,5 +1,3 @@
-
-
 #nav-bar {
     position: fixed;
     width: 100%;
@@ -12,4 +10,8 @@
 #self-photo {
     width: 315px;
     height: 210px;
+}
+
+.card-body {
+    text-align: center;
 }

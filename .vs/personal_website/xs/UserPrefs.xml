@@ -9,7 +9,11 @@
         <State name="__root__">
           <Node name="personal_website" expanded="True">
             <Node name="personal_website" expanded="True">
-              <Node name="dist" expanded="True" />
+              <Node name="dist" expanded="True">
+                <Node name="css" expanded="True">
+                  <Node name="styles.css" selected="True" />
+                </Node>
+              </Node>
             </Node>
           </Node>
         </State>
