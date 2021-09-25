@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{9865DF44-E647-4CC3-B55E-69D67B941C60}|Default">
+  <MonoDevelop.Ide.ItemProperties.personal__website PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="dist/html/contact.html">
+    <Files>
+      <File FileName="dist/index.html" Line="29" Column="58" />
+      <File FileName="dist/html/contact.html" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="personal_website" expanded="True">
+            <Node name="personal_website" expanded="True">
+              <Node name="dist" expanded="True">
+                <Node name="html" expanded="True">
+                  <Node name="contact.html" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
