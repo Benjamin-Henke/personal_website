@@ -1,20 +1,15 @@
 ﻿<Properties StartupConfiguration="{9865DF44-E647-4CC3-B55E-69D67B941C60}|Default">
   <MonoDevelop.Ide.ItemProperties.personal__website PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="dist/html/contact.html">
+  <MonoDevelop.Ide.Workbench ActiveDocument="dist/index.html">
     <Files>
-      <File FileName="dist/index.html" Line="29" Column="58" />
-      <File FileName="dist/html/contact.html" Line="11" Column="1" />
+      <File FileName="dist/index.html" Line="13" Column="12" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="personal_website" expanded="True">
             <Node name="personal_website" expanded="True">
-              <Node name="dist" expanded="True">
-                <Node name="html" expanded="True">
-                  <Node name="contact.html" selected="True" />
-                </Node>
-              </Node>
+              <Node name="dist" expanded="True" />
             </Node>
           </Node>
         </State>
