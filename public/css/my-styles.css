@@ -1,6 +1,11 @@
+a {
+   color: black; 
+}
+
 #nav-bar {
     position: fixed;
     width: 100%;
+    z-index: 9999;
 }
 
 #portfolio {
@@ -63,13 +68,14 @@
 }
 
 .github-linkedin-btn {
+    padding: 10px;
     background-color: transparent;
     border: none;
     color: black;
     transition: color 0.1s linear;
     -webkit-transition: color 0.1s linear;
     -moz-transition: color 0.1s linear;
-   
+    text-decoration: none;
 }
 
 .github-linkedin-btn:hover {
