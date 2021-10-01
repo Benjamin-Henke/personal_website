@@ -48,40 +48,7 @@ a.nav-link:active
 
 
 
-.card-btn {
-    color:  rgb(0, 213, 14);
-    margin: none;
-    border: none;
-    background-color: transparent;
-    text-decoration: none;
-    transition: color 0.1s linear;
-    -webkit-transition: color 0.1s linear;
-    -moz-transition: color 0.1s linear;
 
-    cursor: pointer;
-}
-.card-btn:hover {
-    color: rgb(0, 109, 9);
-}
-
-.card {
-    padding: 35px;
-    margin: 25px;
-    border-radius: 4px;
-    background: #fff;
-    box-shadow: 0 6px 10px rgba(0,0,0,.08), 0 0 6px rgba(0,0,0,.05);
-    transition: .3s transform cubic-bezier(.155,1.105,.295,1.12),.3s box-shadow,.3s -webkit-transform cubic-bezier(.155,1.105,.295,1.12);
-    padding: 14px 80px 18px 36px;
-}
-
-.card:hover{
-    transform: scale(1.05);
-    box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
-}
-
-.card-body {
-    text-align: center;
-}
 
 .connect-card {
     border-style: solid;
@@ -91,7 +58,6 @@ a.nav-link:active
 
 .row {
     text-align: center;
-
 }
 
 
@@ -151,7 +117,6 @@ a.nav-link:active
     margin-bottom: 60px;
 }
 /*----- END ABOUT ME SECTION -----*/
-
 
 
 
@@ -447,3 +412,42 @@ a.nav-link:active
     font-weight: 600;
 }
 /*------END TECHNOLOGIES SECTION------*/
+
+
+
+/*-----PORTFOLIO-----*/
+.card-btn {
+    color:  rgb(0, 213, 14);
+    margin: none;
+    border: none;
+    background-color: transparent;
+    text-decoration: none;
+    transition: color 0.1s linear;
+    -webkit-transition: color 0.1s linear;
+    -moz-transition: color 0.1s linear;
+
+    cursor: pointer;
+}
+.card-btn:hover {
+    color: rgb(0, 109, 9);
+}
+
+.card {
+    padding: 35px;
+    margin: 25px;
+    border-radius: 4px;
+    background: #fff;
+    box-shadow: 0 6px 10px rgba(0,0,0,.08), 0 0 6px rgba(0,0,0,.05);
+    transition: .3s transform cubic-bezier(.155,1.105,.295,1.12),.3s box-shadow,.3s -webkit-transform cubic-bezier(.155,1.105,.295,1.12);
+    padding: 14px 80px 18px 36px;
+}
+
+.card:hover{
+    transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}
+
+.card-body {
+    text-align: center;
+}
+/*-----END PORTFOLIO SECTION-----*/
