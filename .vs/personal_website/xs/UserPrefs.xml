@@ -1,18 +1,17 @@
-﻿<Properties StartupConfiguration="{9865DF44-E647-4CC3-B55E-69D67B941C60}|Default">
+﻿<Properties StartupConfiguration="{47F21566-2D30-415E-A1E1-71CE70F29822}|dotnet_bakery">
   <MonoDevelop.Ide.ItemProperties.personal__website PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="dist/index.html">
+  <MonoDevelop.Ide.Workbench ActiveDocument="public/index.html">
     <Files>
-      <File FileName="dist/index.html" Line="13" Column="12" />
+      <File FileName="public/index.html" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="personal_website" expanded="True">
             <Node name="personal_website" expanded="True">
-              <Node name="dist" expanded="True">
-                <Node name="css" expanded="True">
-                  <Node name="styles.css" selected="True" />
-                </Node>
+              <Node name="imgs" expanded="True" />
+              <Node name="public" expanded="True">
+                <Node name="css" expanded="True" selected="True" />
               </Node>
             </Node>
           </Node>
